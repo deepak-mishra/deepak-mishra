@@ -1,5 +1,5 @@
 
-<img style="float: right;"  src="https://user-images.githubusercontent.com/3043991/119269720-beb88c00-bc16-11eb-96c4-8ad42ed8d616.png" alt="Deepak Mishra">
+<img style="float: right;"  src="https://user-images.githubusercontent.com/3043991/119269720-beb88c00-bc16-11eb-96c4-8ad42ed8d616.png#left" alt="Deepak Mishra">
 ### Hello! This is [Deepak Mishra](https://www.deepakmishra.com/) 👋
 
 <p align="left"> 
