@@ -7,10 +7,10 @@
  <img src="https://komarev.com/ghpvc/?username=deepak-mishra&color=blue" alt="Deepak Mishra" /> 
 </p>
 
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
 ### About Me 🚀
 I am Full Stack Javascript Developer with over 9 years of experience.
 
