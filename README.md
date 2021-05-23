@@ -30,7 +30,7 @@ I am Full Stack Javascript Developer with over 9 years of experience.
  <a href="mailto:hello@deepakmishra.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="16" style="vertical-align:top; margin:4px"></a>
 
 
-[![Github](https://img.shields.io/github/followers/DeepakMishra?label=Follow&style=social)](https://github.com/deepak-mishra)
+[![Github](https://img.shields.io/github/followers/deepak-mishra?label=Follow&style=social)](https://github.com/deepak-mishra)
 
 <br>
 <br>
