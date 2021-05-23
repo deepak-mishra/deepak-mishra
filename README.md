@@ -22,8 +22,9 @@ I am a Front End / JavaScript Stack Developer with over 9 years of experience.
 
 
 ### Connect with me 
-- 💬(https://www.linkedin.com/in/ptdeepakmishra/)
-- 📫(mailto:hello@deepakmishra.com)
+- [💬](https://www.linkedin.com/in/ptdeepakmishra/)
+- [📫](mailto:hello@deepakmishra.com)
+- [🌐](https://www.deepakmishra.com)
 
 <br>
 <br>
