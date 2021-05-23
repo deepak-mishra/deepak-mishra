@@ -25,9 +25,10 @@ I am Full Stack Javascript Developer with over 9 years of experience.
 
 
 ### Connect with me 
-- email [💬](mailto:hello@deepakmishra.com)
-- [🌐](https://www.linkedin.com/in/ptdeepakmishra/)
-- [🌐](https://www.deepakmishra.com)
+<a href="https://www.deepakmishra.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/ptdeepakmishra/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:hello@deepakmishra.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+
 
 <br>
 <br>
