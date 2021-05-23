@@ -1,5 +1,5 @@
 
-<img align="left"  src="https://user-images.githubusercontent.com/3043991/119269720-beb88c00-bc16-11eb-96c4-8ad42ed8d616.png#left" alt="Deepak Mishra"/>
+<img align="left"  src="https://user-images.githubusercontent.com/3043991/119270066-8914a280-bc18-11eb-87d3-eaaeb1b51b9a.png" alt="Deepak Mishra"/>
 
 ### Hello! This is [Deepak Mishra](https://www.deepakmishra.com/) 👋
 
@@ -12,7 +12,7 @@
 I am Full Stack Javascript Developer with over 9 years of experience.
 
 
-###  Skills 
+###  Skills 📝  
 
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="16" style="vertical-align:top; margin:4px"> React JS<br>
@@ -26,13 +26,11 @@ I am Full Stack Javascript Developer with over 9 years of experience.
 
 
 
-### Connect with me 
-<a href="https://www.deepakmishra.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="16" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/ptdeepakmishra/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="16" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:hello@deepakmishra.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="16" style="vertical-align:top; margin:4px"></a>
+### Connect with me 🌐
 
-
-[![Github](https://img.shields.io/github/followers/deepak-mishra?label=Follow&style=social)](https://github.com/deepak-mishra)
+<a href="https://www.deepakmishra.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="40" style="vertical-align:top; margin:10px"> </a>
+ <a href="https://www.linkedin.com/in/ptdeepakmishra/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:10px"></a>
+ <a href="mailto:hello@deepakmishra.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="40" style="vertical-align:top; margin:4px"></a>
 
 <br>
 <br>
