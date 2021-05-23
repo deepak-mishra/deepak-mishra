@@ -12,12 +12,12 @@ I am a Front End / JavaScript Stack Developer with over 9 years of experience.
 
 ###  Skills 
 
-💻 ReactJS
-💻 Redux
-💻 Node JS
-💻 Angular JS
-💻 JavaScript
-💻 CSS, TypeScript, Express JS, Webpack, LESS, SCSS
+- 💻 React JS<br>
+- 💻 Redux<br>
+- 💻 Node JS <br>
+- 💻 Angular JS<br>
+- 💻 JavaScript<br>
+- 💻 CSS, TypeScript, Express JS, Webpack, LESS, SCSS<br>
 🌱 python ...
 
 
