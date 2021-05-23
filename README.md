@@ -2,7 +2,7 @@
 ### Hello! This is [Deepak Mishra](https://www.deepakmishra.com/) 👋
 
 <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=deepak-mishra&color=blue" alt="Deepak Mishra" /> 
+ <img src="https://komarev.com/ghpvc/?username=deepak-mishra&color=blue" alt="Deepak Mishra" /> 
 </p>
 
 
@@ -29,6 +29,8 @@ I am Full Stack Javascript Developer with over 9 years of experience.
  <a href="https://www.linkedin.com/in/ptdeepakmishra/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="16" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:hello@deepakmishra.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="16" style="vertical-align:top; margin:4px"></a>
 
+
+[![Github](https://img.shields.io/github/followers/DeepakMishra?label=Follow&style=social)](https://github.com/deepak-mishra)
 
 <br>
 <br>
