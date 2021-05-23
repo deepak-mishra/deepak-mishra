@@ -7,7 +7,7 @@
 
 
 ### About Me 🚀
-I am a Front End / JavaScript Stack Developer with over 9 years of experience.
+I am Full Stack Javascript Developer with over 9 years of experience.
 
 
 ###  Skills 
