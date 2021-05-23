@@ -12,7 +12,7 @@ I am a Front End / JavaScript Stack Developer with over 9 years of experience.
 
 ###  Skills 
 
-<p align="center">
+<p>
 - <img src="https://raw.githubusercontent.com/deepak-mishra/topics/javascript/reactjs.png" alt="Node JS" height="20" style="vertical-align:top; margin:4px"> React JS<br>
 - 💻 Redux<br>
 - <img src="https://raw.githubusercontent.com/deepak-mishra/topics/javascript/nodejs.png" alt="Node JS" height="20" style="vertical-align:top; margin:4px"> Node JS <br>
