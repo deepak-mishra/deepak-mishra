@@ -1,5 +1,5 @@
 
-### Hello World! This is [Deepak Mishra](https://www.deepakmishra.com/) 👋
+### Hello! This is [Deepak Mishra](https://www.deepakmishra.com/) 👋
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=deepak-mishra&color=blue" alt="Deepak Mishra" /> 
