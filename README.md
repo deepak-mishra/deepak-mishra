@@ -3,9 +3,8 @@
 
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=deepak-mishra&color=blue" alt="Deepak Mishra" /> 
-
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-mishra&theme=tokyonight)
+
 
 ### About Me 🚀
 I am Full Stack Javascript Developer with over 9 years of experience.
