@@ -13,11 +13,11 @@ I am a Front End / JavaScript Stack Developer with over 9 years of experience.
 ###  Skills 
 
 <p>
-- <img src="https://raw.githubusercontent.com/deepak-mishra/topics/javascript/reactjs.svg" alt="Node JS" height="20" style="vertical-align:top; margin:4px"> React JS<br>
+- <img src="https://raw.githubusercontent.com/deepak-mishra/programmicons/master/src/reactjs.svg" alt="Node JS" height="20" style="vertical-align:top; margin:4px"> React JS<br>
 - 💻 Redux<br>
-- <img src="https://raw.githubusercontent.com/deepak-mishra/topics/javascript/nodejs.svg" alt="Node JS" height="20" style="vertical-align:top; margin:4px"> Node JS <br>
-- <img src="https://raw.githubusercontent.com/deepak-mishra/topics/javascript/angular.svg" alt="Angular" height="20" style="vertical-align:top; margin:4px"> Angular JS<br>
-- <img src="https://raw.githubusercontent.com/deepak-mishra/topics/javascript/javascript.svg" alt="Javascript" height="20" style="vertical-align:top; margin:4px"> JavaScript<br>
+- <img src="https://raw.githubusercontent.com/deepak-mishra/programmicons/master/src/nodejs.svg" alt="Node JS" height="20" style="vertical-align:top; margin:4px"> Node JS <br>
+- <img src="https://raw.githubusercontent.com/deepak-mishra/programmicons/master/src/angular.svg" alt="Angular" height="20" style="vertical-align:top; margin:4px"> Angular JS<br>
+- <img src="https://raw.githubusercontent.com/deepak-mishra/programmicons/master/src/javascript.svg" alt="Javascript" height="20" style="vertical-align:top; margin:4px"> JavaScript<br>
 - 💻 CSS, TypeScript, Express JS, Webpack, LESS, SCSS<br>
 🌱 python ...
 </p>
