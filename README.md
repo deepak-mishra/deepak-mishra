@@ -1,7 +1,7 @@
 
 <img align="left"  src="https://user-images.githubusercontent.com/3043991/119270066-8914a280-bc18-11eb-87d3-eaaeb1b51b9a.png"  width="150"  width="height" alt="Deepak Mishra"/>
 
-### Hello! This is [Deepak Mishra](https://www.deepakmishra.com/) 👋
+### This is [Deepak Mishra](https://www.deepakmishra.com/) 👋
 
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=deepak-mishra&color=blue" alt="Deepak Mishra" /> 
