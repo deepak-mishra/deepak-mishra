@@ -15,7 +15,7 @@
 ### About Me 🚀
 I bring over a decade of diverse experience in the world of front-end web development. I excel at creating visually stunning and user-friendly UI solutions. My dedication to industry standards ensures that my projects are accessible, compliant, and functional across various browsers. 
 
-My strengths as a professional include a dynamic approach to software development, a drive for continuous learning, unwavering professionalism, and a strong work ethic. My passion for the dynamic world of web and technology drives me to actively contribute to their enhancement on a daily basis. A big fan of JS-based stacks , such as Node + ReactJS/Redux or MEAN - MongoDB, ExpressJS, AngularJS, NodeJS.
+My strengths as a professional include a dynamic approach to software development, a drive for continuous learning, unwavering professionalism, and a strong work ethic. My passion for the dynamic world of web and technology drives me to actively contribute to their enhancement on a daily basis. A big fan of JS-based stacks , such as Node + ReactJS/Redux or MEAN - MongoDB, ExpressJS, Angular, NodeJS.
 
 ###  Skills 📝  
 
