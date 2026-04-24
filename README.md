@@ -1,64 +1,51 @@
-# 🎉 Hey there, I’m Deepak Mishra!  
-Frontend Engineer • UI Whisperer • Occasional Bug Therapist
+# Deepak · Lead Full-Stack Engineer · Germany
 
-<img align="left" src="https://user-images.githubusercontent.com/3043991/119270066-8914a280-bc18-11eb-87d3-eaaeb1b51b9a.png" width="150" alt="Deepak Mishra"/>
+> One engineer. Full-stack depth. AI-accelerated output.
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=deepak-mishra&color=blue" alt="profile views"/>
-</p>
+10+ years building web applications for tens of millions of users across fintech, banking, and e-commerce. Today I pair that experience with AI-native workflows — using Claude Code and Cursor to ship in hours what used to take a team a week.
 
-<br clear="left"/>
+**Available for senior engineering engagements.**
 
 ---
 
-## 😄 Who Am I?
+### What I deliver
 
-I’m a frontend engineer who believes the web should feel fast, look beautiful, and never make users cry.  
-For the past decade, I’ve been crafting interfaces, fixing the unfixable, and occasionally yelling at CSS (lovingly).
-
-I enjoy turning complex problems into clean, intuitive experiences — and I get unreasonably excited about good architecture, elegant TypeScript, and deleting 200 lines of code without breaking anything.
-
-If it runs on JavaScript, I probably enjoy it.  
-If it doesn’t… I’ll still try to make it run on JavaScript.
-
----
-
-## 🧰 My Toolbox (a.k.a. Things I Use to Fight Bugs)
-
-### **Frontend Magic**
-- ⚛️ React & Redux — because components are life  
-- 🅰️ Angular — for when you want structure *and* drama  
-- 🎨 CSS / SCSS / LESS — making pixels behave since forever  
-- 🔷 TypeScript — my love language  
-- 🟨 JavaScript — the OG chaos engine  
-
-### **Backend & Build Stuff**
-- 🟩 Node.js / Express — backend but make it JavaScript  
-- 📦 Webpack — the wizard behind the curtain  
-- 🗄️ MongoDB — document everything  
-
-### **Currently Leveling Up**
-- 🐍 Python — because why not  
-- ⚡ Performance tuning — making apps go brrrr  
-- 🤖 Power‑user of generative‑AI tools like Cursor — using AI to speed up development, refactor smarter, and turn wild ideas into working code faster than ever.
+| | |
+|---|---|
+| **Full-Stack Engineering** | Angular v20, React, Next.js, Node.js, Python/FastAPI — owned end to end |
+| **AI Integration** | LLM pipelines, RAG, Claude Code, Cursor, OpenAI API — in production |
+| **Performance** | LCP 4s → 1.8s · 40% smaller JS bundles · Lighthouse 92+ |
+| **Scale** | 20M+ users served · Nx monorepos · Docker · Kubernetes |
 
 ---
 
-## 🌍 Let’s Connect
+### Stack
 
-<p>
- <a href="https://www.deepakmishra.com" target="_blank" rel="noopener noreferrer">
-   <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" height="40"  width="40"  alt="website"/>
- </a>
- <a href="https://www.linkedin.com/in/ptdeepakmishra/" target="_blank" rel="noopener noreferrer">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="40" alt="linkedin"/>
- </a>
- <a href="mailto:hello@deepakmishra.com">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="40" alt="email"/>
- </a>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-## 🏷️ Tech Vibes  
-`JavaScript` • `Node.js` • `React` • `Angular` • `TypeScript` • `UI Engineering` • `Accessibility` • `Performance` • `Frontend Architecture` • `Express` • `MongoDB` • `CSS / SCSS` • `Webpack` • `Testing` • `AI‑assisted Development`
+### GitHub activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak-mishra&show_icons=true&hide_border=true&count_private=true&hide_title=true&theme=default)
+
+---
+
+**[deepakmishra.com](https://deepakmishra.com)** · **[Book a call](https://calendly.com/deepakmishra)** · [LinkedIn](https://linkedin.com/in/ptdeepakmishra) · [hello@deepakmishra.com](mailto:hello@deepakmishra.com)
