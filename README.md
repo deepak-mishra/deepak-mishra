@@ -1,4 +1,4 @@
-# Deepak · Lead Full-Stack Engineer · Germany
+# Deepak · Lead Full-Stack Engineer · 
 
 > One engineer. Full-stack depth. AI-accelerated output.
 
