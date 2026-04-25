@@ -42,10 +42,4 @@
 
 ---
 
-### GitHub activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak-mishra&show_icons=true&hide_border=true&count_private=true&hide_title=true&theme=default)
-
----
-
 **[deepakmishra.com](https://deepakmishra.com)** · **[Book a call](https://calendly.com/deepakmishra)** · [LinkedIn](https://linkedin.com/in/ptdeepakmishra) · [hello@deepakmishra.com](mailto:hello@deepakmishra.com)
